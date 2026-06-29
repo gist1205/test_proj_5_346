@@ -1,0 +1,5 @@
+AIController=<Object '/Script/AIModule.AIController' (0x00007FF47CC62248) Class 'Class'>
+BP_Enemy defaults updated: controller yaw=true, desired rotation=true, yaw rate=360
+/Game/Map_Levels/Tutorial_Level: saved loaded BP_Enemy actors=0
+/Game/Map_Levels/Level_1: saved loaded BP_Enemy actors=1
+/Game/Map_Levels/Level_2: saved loaded BP_Enemy actors=0

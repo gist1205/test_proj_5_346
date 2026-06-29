@@ -1,0 +1,7 @@
+NPC and rifle loaded and compiled successfully
+/Game/Map_Levels/Tutorial_Level: added navigation volume at <Struct 'Vector' (0x000002A776CD5FF0) {x: -1390.000000, y: 261.310493, z: 91.056744}>
+/Game/Map_Levels/Tutorial_Level: game_mode=/Game/Blueprints/GM_ThirdPersonShooter.GM_ThirdPersonShooter_C nav_volumes=1 saved=True
+/Game/Map_Levels/Level_1: added navigation volume at <Struct 'Vector' (0x000002A776CD62C0) {x: 112.502296, y: 84.638084, z: 309.204623}>
+/Game/Map_Levels/Level_1: game_mode=/Game/Blueprints/GM_ThirdPersonShooter.GM_ThirdPersonShooter_C nav_volumes=1 saved=True
+/Game/Map_Levels/Level_2: added navigation volume at <Struct 'Vector' (0x000002A776CD5FF0) {x: -4270.118324, y: -588.919915, z: -2966.621187}>
+/Game/Map_Levels/Level_2: game_mode=/Game/Blueprints/GM_ThirdPersonShooter.GM_ThirdPersonShooter_C nav_volumes=1 saved=True

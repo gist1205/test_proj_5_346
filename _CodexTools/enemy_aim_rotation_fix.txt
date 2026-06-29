@@ -1,0 +1,5 @@
+Defaults set: controller yaw=true, orient-to-movement=false, desired rotation=true, yaw rate=360
+/Game/Map_Levels/Tutorial_Level: saved enemies=0
+/Game/Map_Levels/Level_1: saved enemies=0
+/Game/Map_Levels/Level_2: saved enemies=0
+No placed enemy cells were loaded headlessly; Blueprint defaults still apply to all instances
